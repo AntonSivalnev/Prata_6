@@ -1,4 +1,4 @@
-#include "9_4a.cpp"
+#include "9_4.h"
 
 int main()
 {
